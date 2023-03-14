@@ -10,7 +10,7 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Ade Marfa Miftahul Hidayah"
+        android:text="Ade Marfa Miftahul Hidayah 202102314"
         android:background="#0cb1f2"
         android:textColor="#FFFFFF"
         android:gravity="center"
